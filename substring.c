@@ -1,8 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 
-
- int main()
+int main()
 {
 char string[] = ("my_name_is_edcast_future_skills");
 char delimeter[] = ("_");
